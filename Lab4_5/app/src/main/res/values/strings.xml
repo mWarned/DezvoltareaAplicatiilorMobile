@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4_5</string>
+    <string name="start">Start</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cronometru">Chronometer in Android</string>
+    <string name="Start">Start</string>
+    <string name="Restart">Restart</string>
+    <string name="Stop">Stop</string>
+</resources>
