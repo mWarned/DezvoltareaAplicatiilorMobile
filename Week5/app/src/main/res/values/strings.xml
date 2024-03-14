@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="toggle_turn_on">Turn On</string>
+    <string name="toggle_turn_off">Turn Off</string>
+    <string name="btn_display">Display</string>
+
+</resources>
